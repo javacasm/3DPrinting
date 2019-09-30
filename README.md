@@ -23,8 +23,8 @@
     * [3D Printer structure](./3DPrinter.md)
     * [Materials](./materials.md)
 
-* Modelos
-    * [Repositorios de modelos](./repositorios.md)
+* Models
+    * [Models repository](./repository.md)
     * Software básico de edición.
     * Introducción al diseño 3d     
 
