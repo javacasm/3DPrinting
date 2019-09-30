@@ -13,7 +13,7 @@
 ## http://bit.ly/3Dsmartietn
 
 
-# Software de impresión
+# Software
 
 
 ## Slicers
