@@ -20,7 +20,7 @@
     * [Application](./Application.md)
     * [3d printing technologies](./Technologies.md)
     * [Printers](./3DPrinters.md) & [geometries](./Geometries.md)
-    * [3D Printer structura](./3DPrinter.md)
+    * [3D Printer structure](./3DPrinter.md)
     * [Materials](./materials.md)
 
 * Modelos
