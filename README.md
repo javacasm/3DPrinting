@@ -26,12 +26,9 @@
 * Models
     * [Models repository](./repository.md)
 
-* 3D workflow  
-    * Slicers [Software](./Software.md) y [Formatos de impresión](./Formatos.md)
-    * [Slicers](./Slicers.md)
-    * Configuración de perfiles de impresión
-    * [Proceso de impresión](./Proceso_de_Impresion.md)
-    * [Solución de Problemas](./Problemas.md)
+* [3D workflow ](.WorkFlow.md) 
+    * [Software](./Software.md)
+    * [Solving Problems...](./Problems.md)
 
 * 3D Design
     * [Design Tools](./DesignTools.md)
