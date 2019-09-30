@@ -12,7 +12,7 @@
 
 ## http://bit.ly/3Dsmartietn
 
-#### Herramientas de diseño en 3D
+#### 3D Design tools
 
 ![cad](./images/FourCylinderEngine.gif)
 
@@ -23,15 +23,15 @@
 
 * [123d Design](http://www.mibqyyo.com/articulos/2015/02/02/aprendiendo-diseno-3d-123d-design/#/vanilla/discussion/embed/?vanilla_discussion_id=0)
 
-* [SketchUp](https://my.sketchup.com/app) ([detalles](./SketchUp.md))
+* [SketchUp](https://my.sketchup.com/app) 
 
   ![SketchUp](./images/sketchup-dimensions.jpg)
 
-* [Tinkercad](http://Tinkercad.com) ([detalles](./Tinkdercad.md))
+* [Tinkercad](http://Tinkercad.com) 
 
   ![Tinkercad](./images/Tinkercad.jpg)
 
-* [Blender](https://www.blender.org/) ([Detalles](./Blender.md))
+* [Blender](https://www.blender.org/) 
 
 * [OpenSCad](http://www.openscad.org/) ([Tutoriales](http://www.iearobotics.com/wiki/index.php?title=Obijuan_Academy#Tutoriales_Openscad))
 
@@ -40,4 +40,4 @@
 
 ### Tools
 
-* [netfabb](http://www.netfabb.com/engine_ultimaker.php) Software de corrección de errores
+* [netfabb](http://www.netfabb.com/engine_ultimaker.php) Fix 3d model errors
