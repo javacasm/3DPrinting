@@ -26,25 +26,14 @@
 * Models
     * [Models repository](./repository.md)
 
-* Software para impresión 3D  
-    * Laminadores [Software de impresión](./Software.md) y [Formatos de impresión](./Formatos.md)
+* 3D workflow  
+    * Slicers [Software](./Software.md) y [Formatos de impresión](./Formatos.md)
+    * [Slicers](./Slicers.md)
     * Configuración de perfiles de impresión
     * [Proceso de impresión](./Proceso_de_Impresion.md)
     * [Solución de Problemas](./Problemas.md)
 
 * 3D Design
-    * [Desgin Tools](./DesignTools.md)
-    * Comercial
-        * [TinkerCad](./Tinkercad.md)
-    * [Herramientas OpenSource](./HerramientasOpenSource.md)
-        * [Freecad](./Freecad.md)
-        * [Blender](./Blender.md)
-        * Algoritmicos
-            * [BlockScad](./BlockScad.md)
-            * [OpenScad](http://www.openscad.org/)
-
-* Proceso de impresión
-  * [Slicers](./Slicers.md)
-  * [Materiales y sus parámetros](./Filamentos.md)
+    * [Design Tools](./DesignTools.md)
 
 
