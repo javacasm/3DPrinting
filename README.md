@@ -13,7 +13,7 @@
 ## http://bit.ly/3Dsmartietn
 
 
-## Content
+## Contents
 
 * Introduction to 3D printing
     * [Origin](./History.md)
@@ -25,9 +25,6 @@
 
 * Models
     * [Models repository](./repository.md)
-    * Software básico de edición.
-    * Introducción al diseño 3d     
-
 
 * Software para impresión 3D  
     * Laminadores [Software de impresión](./Software.md) y [Formatos de impresión](./Formatos.md)
@@ -35,9 +32,9 @@
     * [Proceso de impresión](./Proceso_de_Impresion.md)
     * [Solución de Problemas](./Problemas.md)
 
-* [Diseño 3D](Disenio3D.md)
-    * [Herramientas de diseño](./HerramientasDisenio.md)
-    * [Herramientas comerciales](./HerramientasComerciales.md)
+* 3D Design
+    * [Desgin Tools](./DesignTools.md)
+    * Comercial
         * [TinkerCad](./Tinkercad.md)
     * [Herramientas OpenSource](./HerramientasOpenSource.md)
         * [Freecad](./Freecad.md)
