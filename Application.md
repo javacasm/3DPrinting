@@ -52,9 +52,9 @@
 ![enable](./images/NEWRELOADED.jpg)
 ![enable2](./images/ISABELLAARMteam.jpg)
 
-## Aplicaciones para ingeniería
+## Engineering
 
-### Arquitectura
+### Architecture
 
 ![sydney hardbour bridge](https://c4.staticflickr.com/8/7369/9148811913_5e6288750d_n.jpg)
 
@@ -97,5 +97,5 @@
 
 ![heart](https://files.cults3d.com/uploaders/33/illustration-file/4529ec82-8bc0-47b6-94a7-1093a6255161/Capture%20d%E2%80%99e%CC%81cran%202017-06-01%20a%CC%80%2011.18.33_large.png)
 
-![vessels](https://es.3dsystems.com/sites/default/files/styles/image_general_onethird_size/public/2017-01/3d-systems-healthcare-anatomical-model-heart-with-airway-hero_0.png?itok=q2jP5-6M)
+![veins](https://es.3dsystems.com/sites/default/files/styles/image_general_onethird_size/public/2017-01/3d-systems-healthcare-anatomical-model-heart-with-airway-hero_0.png?itok=q2jP5-6M)
 
